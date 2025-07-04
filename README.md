@@ -42,3 +42,6 @@ In generale, le scelte fatte consentono di mantenere bassi i costi operativi per
  *_Conclusione_*
 
 Questo progetto dimostra un'applicazione concreta e solida degli smart contract in ambito e-commerce. L'uso di una libreria esterna migliora l’organizzazione e la manutenibilità del codice. Le funzionalità offerte permettono di gestire con facilità il ciclo di vita di un prodotto, di effettuare vendite tracciabili e di analizzare i dati relativi al comportamento dei clienti. L'infrastruttura è pensata per essere integrata con un frontend React o con strumenti di monitoraggio on-chain, risultando versatile e pronta per l’adozione reale in un contesto decentralizzato.
+
+Di seguito l'indirizzo del contratto pubblicato su Sepolia su cui sono state esguite alcune transazioni di test per aggiungre Prodotti:
+0x9FfDCFC6ddD6409c02854ff69A792dFAA27551D3
